@@ -1,0 +1,14 @@
+package ru.bluegem.telegrambot.enums;
+
+public enum BotState {
+
+    INPUT_CONTEST_NAME,
+    INPUT_POST_TEXT,
+    INPUT_POST_DATE,
+    INPUT_POST_KEYBOARD,
+    INPUT_MAILING_MESSAGE,
+    INPUT_RESULTS_DATE,
+    INPUT_CONTEST_MAX_PARTICIPANTS,
+    INPUT_CONTEST_PRIZES
+
+}
